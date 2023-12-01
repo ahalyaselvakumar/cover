@@ -41,7 +41,7 @@ Publish the website in the LocalHost.
         .bookpage{
 
             width: 400px;
-            height: 600px;
+            height: 540px;
             color:black;
             margin-left: auto;
             margin-right: auto;
@@ -66,7 +66,7 @@ Publish the website in the LocalHost.
             display: inline;
             position: relative;
             color:black;
-            top:190px;
+            top:205px;
             
             font-family:Georgia;
             font-size: medium;
@@ -90,7 +90,7 @@ Publish the website in the LocalHost.
             color:azure;
             font-size: medium;
             position: relative;
-            top:155px;
+            top:170px;
             left:330px;
         }
         .ed{
@@ -98,7 +98,7 @@ Publish the website in the LocalHost.
             font-size: medium;
             font-family: Verdana;
             position:relative;
-            top:85px;
+            top:90px;
         
         }
         .subtitle{
@@ -110,7 +110,7 @@ Publish the website in the LocalHost.
         }
         .mypic{
             position: relative;
-            top: 135px;
+            top: 145px;
             left: 260px;
             width: 90px;
             height: 80px;
@@ -159,7 +159,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![OUTPUT](<Screenshot (13).png>)
+![OUTPUT](<Screenshot 2023-12-01 214944.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
